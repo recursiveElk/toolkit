@@ -1,7 +1,8 @@
 # toolkit
 Handy websites/tools/frameworks for coding!
 
-## Docs
+## Documentation
+### Quick Docs
 - http://devdocs.io/
 - https://devhints.io/
 
