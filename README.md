@@ -5,6 +5,7 @@ Handy websites/tools/frameworks for coding!
 ### Quick Docs
 - http://devdocs.io/
 - https://devhints.io/
+- http://es6-features.org
 
 ### Checklists
 - http://frontendchecklist.com/#head
