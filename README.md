@@ -21,4 +21,9 @@ Handy websites/tools/frameworks for coding!
 ### Colour/Gradients
 - https://coolors.co/
 
+## Performance
+
+### Testing
+- https://developers.google.com/speed/pagespeed/insights/
+
 ## Extensions
