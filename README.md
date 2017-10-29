@@ -7,10 +7,6 @@ Handy websites/tools/frameworks for coding!
 - https://devhints.io/
 - http://es6-features.org
 
-### Checklists
-- http://frontendchecklist.com/#head
-- http://sijinjoseph.com/programmer-competency-matrix/
-
 ## CSS
 ### Design/Inspiration
 - https://codemyui.com/
@@ -20,10 +16,18 @@ Handy websites/tools/frameworks for coding!
 
 ### Colour/Gradients
 - https://coolors.co/
+- https://uigradients.com/
 
 ## Performance
-
 ### Testing
 - https://developers.google.com/speed/pagespeed/insights/
+
+## Best Practices
+### Guides
+- http://tobiasahlin.com/
+
+### Checklists
+- http://frontendchecklist.com/#head
+- http://sijinjoseph.com/programmer-competency-matrix/
 
 ## Extensions
