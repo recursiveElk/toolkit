@@ -1,11 +1,15 @@
 # :gem: toolkit
 Handy websites/tools/frameworks for coding!
 
-## Documentation
-##### Quick Docs
+## Dev Tools
+##### Documentation
 - http://devdocs.io/
 - https://devhints.io/
 - http://es6-features.org
+
+#### Tools
+- https://websemantics.uk/tools/image-to-data-uri-converter/
+- https://www.diffchecker.com/diff
 
 ## CSS
 ##### Design/Inspiration
