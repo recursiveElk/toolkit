@@ -10,6 +10,7 @@ Handy websites/tools/frameworks for coding!
 #### Tools
 - https://websemantics.uk/tools/image-to-data-uri-converter/
 - https://www.diffchecker.com/diff
+- https://matthewlein.com/tools/ceaser
 
 ## CSS
 ##### Design/Inspiration
